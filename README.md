@@ -66,6 +66,7 @@ Workflow:
 
 ## Project Structure
 
+```
 quantum-mini-prod/
 
   src/
@@ -89,6 +90,7 @@ quantum-mini-prod/
   README.md
   .gitignore
 
+```
 
 ## Relationship with mlops-mini-prod
 
