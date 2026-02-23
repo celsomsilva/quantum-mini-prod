@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+scikit-learn
+numpy
+pandas
+
+pennylane
+pennylane-lightning
+
+joblib
+
+pytest
+
+python-dotenv
